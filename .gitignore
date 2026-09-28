@@ -9,4 +9,3 @@ node_modules/
 /server/certs/*
 !/server/certs/mediasoup-demo.localhost.cert.pem
 !/server/certs/mediasoup-demo.localhost.key.pem
-config.bat
